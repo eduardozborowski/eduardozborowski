@@ -17,7 +17,7 @@ Receive! I'm Eduardo and I'm currently studying Computer Science at Franciscan U
 - Waking up earlier to make good use of the day
 - Going to the Gym  and Muay Thai daily
 - Learning a new thing about blockchain everyday
-- Improving my backend skills on both Java and C++
+- Improving my backend skills on both Rust, C++ and Language Funcional
 
 #### :computer: Programming languages and tools: 
 <p>
