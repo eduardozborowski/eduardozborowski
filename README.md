@@ -15,7 +15,7 @@ Receive! I'm Eduardo and I'm currently studying Computer Science at Franciscan U
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Going to the Gym  and Muay Thai daily
+- Going to the Gym daily
 - Learning a new thing about blockchain everyday
 - Improving my backend skills on both Rust and Language Funcional and more others languages
 
